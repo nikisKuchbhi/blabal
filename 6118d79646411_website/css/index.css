@@ -1,0 +1,40 @@
+#desc-text-8 .bg {
+    background-image: url('../images/bg-23.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    opacity:1;
+}
+#media-iframe-text-2 .bg {
+    background-image: url('../images/bg-4.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}#testimonial-3col-2 .bg {
+    background-image: url('../images/bg-66.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.75;
+}#action-text .bg {
+    background-image: url('../images/bg-61.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+}
+#blog-text-2 .bg {
+    background-image: url('../images/bg-37.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.15;
+}
+#sep-bottom-9 .bg-wrap {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)),to(rgba(255,255,255,1)));
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); 
+}
+#sep-center-2 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
